@@ -34,7 +34,7 @@ const App = () => {
   
   return (
     <div className="App">
-      <div className="header">SALIC PDF</div>
+      <div className="header">PDF Viewer</div>
       <div className='pdfviewer-container'>
         <div className="filepicker-panel">
           <div className='file-from-link'>
